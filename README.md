@@ -98,6 +98,16 @@ cargo nexus verify
 
 This exponential improvement represents a new **Moore's Law for verifiable computation**, with each generation delivering order-of-magnitude improvements in proving speed, cost efficiency, and computational capacity.
 
+## zkVM Resources
+
+### Articles and Comparisons
+- [Zeroing into zkVMs](https://taiko.mirror.xyz/e_5GeGGFJIrOxqvXOfzY6HmWcRjCjRyG0NQF1zbNpNQ) - Comprehensive explanation of zkVMs, their benefits over zkEVMs, and comparison of different implementations[5]
+
+### Other zkVM Implementations
+- [RISC Zero zkVM](https://github.com/risc0/risc0) - A general purpose zkVM that allows developers to prove correct execution of arbitrary Rust code[5]
+- [SP1 by Succinct](https://github.com/succinctlabs/sp1) - A first-generation zkVM that verifies execution of arbitrary Rust or LLVM-compiled language programs[5]
+- [Miden VM](https://github.com/0xPolygonMiden/miden-vm) - Polygon's approach to developer-friendly zkVM with multi-language support[5]
+
 ### Network Services
 
 - [Nexus Explorer](https://explorer.nexus.xyz) - Blockchain explorer
